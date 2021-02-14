@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tmparab/static/css/main.91e36352.chunk.css",
-    "main.js": "/tmparab/static/js/main.14720ab9.chunk.js",
-    "main.js.map": "/tmparab/static/js/main.14720ab9.chunk.js.map",
+    "main.css": "/tmparab/static/css/main.5579290a.chunk.css",
+    "main.js": "/tmparab/static/js/main.1086b4a6.chunk.js",
+    "main.js.map": "/tmparab/static/js/main.1086b4a6.chunk.js.map",
     "runtime-main.js": "/tmparab/static/js/runtime-main.3649585c.js",
     "runtime-main.js.map": "/tmparab/static/js/runtime-main.3649585c.js.map",
     "static/css/2.e8266809.chunk.css": "/tmparab/static/css/2.e8266809.chunk.css",
-    "static/js/2.fa010bfc.chunk.js": "/tmparab/static/js/2.fa010bfc.chunk.js",
-    "static/js/2.fa010bfc.chunk.js.map": "/tmparab/static/js/2.fa010bfc.chunk.js.map",
+    "static/js/2.a437368f.chunk.js": "/tmparab/static/js/2.a437368f.chunk.js",
+    "static/js/2.a437368f.chunk.js.map": "/tmparab/static/js/2.a437368f.chunk.js.map",
     "index.html": "/tmparab/index.html",
-    "precache-manifest.061ca0f28c83e1f9d787859e7e355484.js": "/tmparab/precache-manifest.061ca0f28c83e1f9d787859e7e355484.js",
+    "precache-manifest.8b99c73c7ce1e383c279f665743ea1f1.js": "/tmparab/precache-manifest.8b99c73c7ce1e383c279f665743ea1f1.js",
     "service-worker.js": "/tmparab/service-worker.js",
     "static/css/2.e8266809.chunk.css.map": "/tmparab/static/css/2.e8266809.chunk.css.map",
-    "static/css/main.91e36352.chunk.css.map": "/tmparab/static/css/main.91e36352.chunk.css.map",
-    "static/js/2.fa010bfc.chunk.js.LICENSE.txt": "/tmparab/static/js/2.fa010bfc.chunk.js.LICENSE.txt",
+    "static/css/main.5579290a.chunk.css.map": "/tmparab/static/css/main.5579290a.chunk.css.map",
+    "static/js/2.a437368f.chunk.js.LICENSE.txt": "/tmparab/static/js/2.a437368f.chunk.js.LICENSE.txt",
     "static/media/arab2.jpg": "/tmparab/static/media/arab2.d4a46244.jpg",
     "static/media/bathroom.webp": "/tmparab/static/media/bathroom.e45354ca.webp",
     "static/media/bgImg1u.jpg": "/tmparab/static/media/bgImg1u.f856b33f.jpg",
@@ -29,7 +29,6 @@
     "static/media/hall.webp": "/tmparab/static/media/hall.cf8ab11f.webp",
     "static/media/hotelImg2.jpg": "/tmparab/static/media/hotelImg2.925a4fad.jpg",
     "static/media/logoDark.png": "/tmparab/static/media/logoDark.22dbffba.png",
-    "static/media/meetingRoom.jpg": "/tmparab/static/media/meetingRoom.87849ad7.jpg",
     "static/media/museum.jpg": "/tmparab/static/media/museum.1b67d8ae.jpg",
     "static/media/outside.webp": "/tmparab/static/media/outside.716bdecb.webp",
     "static/media/playground.webp": "/tmparab/static/media/playground.3b0a81e0.webp",
@@ -40,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.3649585c.js",
     "static/css/2.e8266809.chunk.css",
-    "static/js/2.fa010bfc.chunk.js",
-    "static/css/main.91e36352.chunk.css",
-    "static/js/main.14720ab9.chunk.js"
+    "static/js/2.a437368f.chunk.js",
+    "static/css/main.5579290a.chunk.css",
+    "static/js/main.1086b4a6.chunk.js"
   ]
 }
