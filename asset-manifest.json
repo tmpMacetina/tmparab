@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tmparab/static/css/main.7364aeae.chunk.css",
+    "main.css": "/tmparab/static/css/main.bca9d9f3.chunk.css",
     "main.js": "/tmparab/static/js/main.b44957a8.chunk.js",
     "main.js.map": "/tmparab/static/js/main.b44957a8.chunk.js.map",
     "runtime-main.js": "/tmparab/static/js/runtime-main.3649585c.js",
@@ -9,10 +9,10 @@
     "static/js/2.a437368f.chunk.js": "/tmparab/static/js/2.a437368f.chunk.js",
     "static/js/2.a437368f.chunk.js.map": "/tmparab/static/js/2.a437368f.chunk.js.map",
     "index.html": "/tmparab/index.html",
-    "precache-manifest.5c9cf92444b2ffbba215ec3c4c766f7b.js": "/tmparab/precache-manifest.5c9cf92444b2ffbba215ec3c4c766f7b.js",
+    "precache-manifest.a976eb458e9581c92eb246ea3c7eecab.js": "/tmparab/precache-manifest.a976eb458e9581c92eb246ea3c7eecab.js",
     "service-worker.js": "/tmparab/service-worker.js",
     "static/css/2.e8266809.chunk.css.map": "/tmparab/static/css/2.e8266809.chunk.css.map",
-    "static/css/main.7364aeae.chunk.css.map": "/tmparab/static/css/main.7364aeae.chunk.css.map",
+    "static/css/main.bca9d9f3.chunk.css.map": "/tmparab/static/css/main.bca9d9f3.chunk.css.map",
     "static/js/2.a437368f.chunk.js.LICENSE.txt": "/tmparab/static/js/2.a437368f.chunk.js.LICENSE.txt",
     "static/media/arab2.jpg": "/tmparab/static/media/arab2.d4a46244.jpg",
     "static/media/bathroom.webp": "/tmparab/static/media/bathroom.e45354ca.webp",
@@ -40,7 +40,7 @@
     "static/js/runtime-main.3649585c.js",
     "static/css/2.e8266809.chunk.css",
     "static/js/2.a437368f.chunk.js",
-    "static/css/main.7364aeae.chunk.css",
+    "static/css/main.bca9d9f3.chunk.css",
     "static/js/main.b44957a8.chunk.js"
   ]
 }
